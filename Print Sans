@@ -6,7 +6,7 @@ using namespace std;
 int main()
 {
     string firstName="Sans";
-    string lastName= "Skeleton";
+    string lastName= " the Skeleton";
     string age="??";
     
     cout<< firstName +  lastName;
