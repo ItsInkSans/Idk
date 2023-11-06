@@ -1,0 +1,13 @@
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main()
+{
+    string firstName="Sans";
+    string lastName= "Skeleton";
+    string age="??";
+    
+    cout<< firstName +  lastName;
+}
